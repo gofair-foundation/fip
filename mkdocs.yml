@@ -1,7 +1,7 @@
 site_name: FIP wiki
 nav:
     - Home: Index.md 
-    - FIP Wizard 3.0 - User Guide:
+    - FIP Wizard 3.0 User Guide:
       - Background: Background.md
       - Overview: Overview.md
       - Getting started: GettingStarted.md
