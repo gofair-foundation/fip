@@ -1,7 +1,10 @@
-The GO FAIR Foundation offers ..  
+# FAIR Implementation Profiles
 
-Click on [Background](Background) to learn more.
+<p align="left"><img src="./assets/img/Offical FIP Icon.png" width="20%"></p>
 
-<p align="center"><img src="docs/assets/img/Offical FIP Icon.png" width="80%"></p>
+This wiki offers the following documentation related to FAIR implementation profiles or FIP's for short:
 
-*The source files and the `readthedocs` configuration files of these pages can be found on [Github](https://github.com/gofair-foundation/fip).*
+- FIP Wizard 3.0 - User Guide
+-  
+
+This wiki and all of its content are maintained by the [GO FAIR Foundation](https://www.gofair.foundation/). The source files and the `readthedocs` configuration files of these pages can be found on [Github](https://github.com/gofair-foundation/fip).
