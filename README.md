@@ -4,4 +4,4 @@ This repository contains the source files and the `readthedocs` configuration fi
 
 [fip.github.io](https://gofair-foundation.github.io/fip/ )
 
-This online resource offers .. 
+This online resource offers ....
