@@ -17,7 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'FAIR Implementation Profiles'
+#project = 'FAIR Implementation Profiles'
+project = 'FIP Wiki'
 copyright = '2023, GO FAIR Foundation'
 author = 'GO FAIR Foundation'
 
