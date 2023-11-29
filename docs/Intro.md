@@ -1,6 +1,6 @@
 # FAIR Implementation Profiles
 
-<p align="left"><img src="./assets/img/Offical FIP Icon.png" width="20%"></p>
+![Offical FIP Icon](assets/img/Offical_FIP_Icon.png)
 
 This wiki offers the following documentation related to FAIR implementation profiles or FIP's for short:
 
