@@ -1,2 +1,3 @@
 # Overview
 
+The FIP Wizard 3.0 is by now a stable and robust tool. However, as the FIP Wizard generates and relies on information that is open to the community at large, it requires some expert guidance in its use in order to ensure the quality of the output. This means that anyone who wishes to create a FIP should ﬁrst participate in a FIP Introduction workshop conducted by a **GFF qualiﬁed** [3PFF facilitator](https://osf.io/hvdcb). A major responsibility of the 3PFF facilitator is to curate newly created FERs to ensure the list of resources is uncluttered by duplicates or erroneous and useless nanopublications. If you are interested in GFF qualiﬁcation as a 3PFF facilitator, please email to admin@gofair.foundation.
