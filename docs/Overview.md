@@ -12,15 +12,15 @@ Making a FIP will typically involve three activities summarized below. The numbe
  
 &ensp;&ensp;&ensp; a.    Other communities may have provided answers that in some cases are not yet quality-checked by experts (those that have been checked are marked with a GFF badge).
 
-&ensp;&ensp;&ensp; b.    When the FICs and FERs you are looking for can not be found in the drop-down lists, you’ll have to mint new FICs and FERs as nanopublications (go to Chapter 3).
+&ensp;&ensp;&ensp; b.    When the FICs and FERs you are looking for can not be found in the drop-down lists, you’ll have to mint new FICs and FERs as nanopublications (go to [Chapter 3](https://gofair-foundation.github.io/fip/MintingNanopublications.html)).
 
 &ensp;&ensp;&ensp; A few notes:
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;i.	Many resources might be already described in FAIRsharing, in which case you should reuse the metadata recorded in there.
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;i.	Many resources might be already described in [FAIRsharing](https://fairsharing.org/), in which case you should reuse the metadata recorded in there.
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;ii.	Typically, FERs of type Metadata-data-linking-mechanism (F3), Communication-protocol (A1.1), Authentication & Authorization Techniques (A1.2), a Knowledge-representation-language (I1) or Usage-license (R1.1) need to be described from scratch. This is true as well for “new” resources and “resources in development”.
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;iii.	Minting new FERs with good metadata as nanopubs requires a deep understanding about the resource and the FER types to which it is assigned.
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;iii.	Minting new FERs with good metadata as nanopubs requires a deep understanding about the resource and the [FER types](www.brokenlink.org) to which it is assigned.
  
 
-3.	**FIP Publication:** The FIP Wizard (the FIP Ǫuestionnaire and its drop-down lists and nanopublication features) can be seen as an editing tool, assisting you in the creation of your FIP. During the creation process and after you have completed your FIP, you can always search for your FIP within the “Project” list of the FIP Wizard, and view and revise it as you like. However, to make a deﬁnitive FIP that will be recognized by the community (including machines), you must also publish your FIP. This can also be done from the FIP Wizard, and involves a two-step process where you must ﬁrst compile the list of nanopublications as a single document (a trig ﬁle) and then submit this list to the FIP server (see Chapter 4).
+3.	**FIP Publication:** The FIP Wizard (the FIP Ǫuestionnaire and its drop-down lists and nanopublication features) can be seen as an editing tool, assisting you in the creation of your FIP. During the creation process and after you have completed your FIP, you can always search for your FIP within the “Project” list of the FIP Wizard, and view and revise it as you like. However, to make a deﬁnitive FIP that will be recognized by the community (including machines), you must also publish your FIP. This can also be done from the FIP Wizard, and involves a two-step process where you must ﬁrst compile the list of nanopublications as a single document (a trig ﬁle) and then submit this list to the FIP server (see [Chapter 4](https://gofair-foundation.github.io/fip/Publishing.html)).
