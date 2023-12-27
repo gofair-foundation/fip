@@ -6,7 +6,7 @@ Introduction
 
 .. toctree::
    :maxdepth: 1
-   :caption: Introduction
+..   :caption: Introduction
    
    Intro.md 
    
@@ -15,7 +15,7 @@ FIP Wizard 3.0 User Guide
 
 .. toctree::
    :maxdepth: 2
-   :caption: FIP Wizard 3.0 User Guide
+ ..  :caption: FIP Wizard 3.0 User Guide
 
    Background.md
    Overview.md
@@ -30,7 +30,7 @@ FIP Ontology
 
 .. toctree::
    :maxdepth: 2
-   :caption: FIP Ontology
+..   :caption: FIP Ontology
 
 
 Usage and Maintenance
@@ -38,7 +38,7 @@ Usage and Maintenance
 
 .. toctree::
    :maxdepth: 1
-   :caption: Usage and Maintenance
+..   :caption: Usage and Maintenance
 
    License.md
    Maintainers.md
