@@ -1,4 +1,4 @@
-# 1. Getting started with the FIP Wizard 3.0
+# Getting started with the FIP Wizard 3.0
 
 - Go to https://fip-wizard.ds-wizard.org: log in or sign up. 
 - Click Projects (a folder icon in the menu bar on the left) (1).
