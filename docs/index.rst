@@ -18,6 +18,7 @@ FIP Wizard 3.0 User Guide
    Background.md
    Overview.md
    GettingStarted.md
+   CompletingQuestionnaire.md
    MintingNanopublications.md
    Publishing.md
    Revising.md
