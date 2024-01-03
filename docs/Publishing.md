@@ -62,7 +62,7 @@ Error messages will flag possible issues such as:
 - For some question(s), the considerations field was left empty
 
 All the nanopublications representing your FIP -  i.e., the FIC, the many FERs, and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a [SPARQL endpoint](https://virtuoso.nps.petapico.org/sparql). 
-To get a matrix of all created FIPs, called FAIR Convergence Matrix (25) use the [DSW-nanopub API](https://peta-pico.github.io/tapas/tapas.html?api=peta-pico/dsw-nanopub-api&op=/make_matrix).
+To get a matrix of all created FIPs, called FAIR Convergence Matrix (25) use the [DSW-nanopub API](https://github.com/peta-pico/dsw-nanopub-api/blob/main/tables/new_matrix.csv).
 
 <p align="left"><img src="./_static/img/fipwug_ch4_img25.png" width="55%"></p>
 
