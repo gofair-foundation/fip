@@ -42,7 +42,7 @@ This chapter contains 4 questions:
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img12.png" width="100%"></p>
 
-The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon [Jacobsen et al (2020) “FAIR Principles: Interpretations and Implementation Considerations”](https://direct.mit.edu/dint/article/2/1-2/10/10017/FAIR-Principles-Interpretations-and-Implementation) and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: [https://www.gofair.foundation/interpretation]. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for F2 and R1.2), see this list with FER examples.
+The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon [Jacobsen et al (2020) “FAIR Principles: Interpretations and Implementation Considerations”](https://direct.mit.edu/dint/article/2/1-2/10/10017/FAIR-Principles-Interpretations-and-Implementation) and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: https://www.gofair.foundation/interpretation. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for F2 and R1.2), see this list with FER examples.
 
 There is a common pattern for each of the questions referring to each FAIR Principles. The questions begin by asking you to make an explicit declaration, about the usage of FAIR Enabling Resources regarding that Principle within your community. 
 
@@ -66,9 +66,9 @@ Note: those items in the list that are marked with the GFF qualification logo ar
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img13sharp.png" width="10%"></p>
 
-Others without badge have not yet been quality-checked
+Others without badges have not yet been quality-checked
 
-Your selection has a follow up question regarding the usage status of that FER in your community. Is the FER:
+Your selection has a follow-up question regarding the usage status of that FER in your community. Is the FER:
 
 &ensp;&ensp;&ensp; **a. Currently in use by the community**
 

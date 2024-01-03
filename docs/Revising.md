@@ -14,7 +14,7 @@ There is no undo button for any action BUT you can use the version history butto
 
 If you want to answer a specific question later, click on the **plus button** to get a **TODO reminder** (27).
 
-<p align="left"><img src="./_static/img/fipwug_ch5_img26sharp.png" width="100%"></p>
+<p align="left"><img src="./_static/img/fipwug_ch5_img27.png.png" width="100%"></p>
 
 Clicking the TODO button you will see all the TODOs as list.
 

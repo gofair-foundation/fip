@@ -1,7 +1,7 @@
 # Minting nanopublications
 - What is a nanopublication?
 
-A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifer (see [here](https://www.brokenlink.com/) and [here](https://peerj.com/articles/cs-387/)).
+A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see [here](https://nanopub.net/) and [here](https://peerj.com/articles/cs-387/)).
 
 <p align="left"><img src="./_static/img/fipwug_ch3_img16flat.png" width="20%"></p>
 
