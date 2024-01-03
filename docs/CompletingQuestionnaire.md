@@ -40,7 +40,7 @@ This chapter contains 4 questions:
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img12.png" width="100%"></p>
 
-The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon [Jacobsen et al (2020) “FAIR Principles: Interpretations and Implementation Considerations”](https://direct.mit.edu/dint/article/2/1-2/10/10017/FAIR-Principles-Interpretations-and-Implementation) and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: https://www.gofair.foundation/interpretation. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for F2 and R1.2), see this list with FER examples.
+The F, A, I and R chapters have a series of questions that follow the same format. The explanatory help text throughout these chapters builds upon [Jacobsen et al (2020) “FAIR Principles: Interpretations and Implementation Considerations”](https://direct.mit.edu/dint/article/2/1-2/10/10017/FAIR-Principles-Interpretations-and-Implementation) and reflects also the GO FAIR Foundation’s interpretations which can be accessed at the GO FAIR Foundation’s website: https://www.gofair.foundation/interpretation. This link should help you to understand precisely what type of FAIR Enabling Resource (FER) is being asked for in each case, and for what purpose. Note, in most cases, identical questions are repeated specifically addressing that issue for both data and metadata. In total, there are 12 different FER types, but a FER might be of more than one type (a metadata scheme can also include provenance information and therefore be a FER for F2 and R1.2).
 
 There is a common pattern for each of the questions referring to each FAIR Principles. The questions begin by asking you to make an explicit declaration, about the usage of FAIR Enabling Resources regarding that Principle within your community. 
 
@@ -48,7 +48,7 @@ If your community uses a resource that is not FAIR, you have two options:
 
 - In case your community is not in control of the resource, choose option **a. No Implementations choice** and add the resource as free text in the **Considerations** box (12).
 
-- In case your community is in control of the resource and plans to FAIRify it choose **Declaration: FAIR Enabling Resource(s)**, and define that you are going to use it in future (see below).
+- In case your community is in control of the resource and plans to FAIRify it, choose **Declaration: FAIR Enabling Resource(s)**, and define that you are going to use it in future (see below).
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img13.png" width="100%"></p>
 
@@ -60,19 +60,19 @@ If your community uses a resource that has some level of FAIRness, then click op
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img15.png" width="100%"></p>
 
-    Note: those items in the list that are marked with the GFF qualification logo are quality-checked by the GO FAIR team
+  Note: those items in the list that are marked with the GFF qualification logo are quality-checked by the GO FAIR team
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img13sharp.png" width="10%"></p>
 
-    Others without badges have not yet been quality-checked
+  Others without badges have not yet been quality-checked.
 
 - Your selection has a follow-up question regarding the usage status of that FER in your community. Is the FER:
 
-    - **Currently in use by the community**
+    a.  **Currently in use by the community**,
 
-    - **Currently in use, but is planned to be replaced in the future**
+    b.  **Currently in use, but is planned to be replaced in the future**,
 
-    - **Is planned to be used in the future**
+    c.  **Is planned to be used in the future**.
 
 Answering **b** will open another text box, allowing you to select the replacement FER.
 
@@ -80,17 +80,18 @@ Lastly, there is a free-text box where you may record the  considerations behind
 
 Add additional FERs if necessary by clicking the **Add +** button and repeating the cycle. 
 
-&ensp;&ensp;&ensp; **Chapter VII. Register a new resource as a nanopublication**
+
+**Chapter VII. Register a new resource as a nanopublication**
 
 There are 3 cases where you will need to mint a new nanopublication before you can complete the FIP questionnaire:
 
-&ensp;&ensp;&ensp; I. creating a new FAIR Implementation Community (FIC)
+- creating a new FAIR Implementation Community (FIC),
 
-&ensp;&ensp;&ensp; II. creating a new FAIR Enabling Resource (FER): either taking preferably metadata from FAIRsharing or creating new metadata
+- creating a new FAIR Enabling Resource (FER): either by using metadata from FAIRsharing or by creating a new metadata,
 
-&ensp;&ensp;&ensp; III. creating a Metadata Preservation Policy (MPP)
+- creating a Metadata Preservation Policy (MPP).
 
-By clicking on the “template” link in each case, you will be taken to the dialog box for creating a new project - in this case, a new Wizard project template for authoring nanopublications (i.e., the nanoWizard). 
+By clicking on the “template” link in each case, you will be taken to the dialog box for creating a new project - in this case, a new Wizard project template for authoring nanopublications. 
 
 Once you have successfully created a new nanopublication, it will become immediately visible (and selectable) to you and others in the appropriate drop-down lists of the FIP Wizard 3.0. 
 
