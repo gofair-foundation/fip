@@ -22,23 +22,21 @@ On the left, the FIP Wizard displays a questionnaire navigation tool, indicating
 
 If you click on any chapter in the navigation tool all questions of that chapter will be displayed. Clicking on any question on the left will automatically lead you to that question in the central area of the Wizard.
 
-In the questionnaire, questions that have been answered will be highlighted in green, and those that still need to be answered will be highlighted in red. All questions need to be answered except the last one of chapter VI which is a statement for R1.3. The FIP Wizard will use the resulting FIP as the definitive answer for  domain-relevant community standards (don’t mind that it remains red) (11).
+In the questionnaire, questions that have been answered will be highlighted in green, and those that still need to be answered will be highlighted in red. The FIP Wizard will use the resulting FIP as the definitive answer for R1.3 (domain-relevant community standards).
 
-<p align="left"><img src="./_static/img/fipwug_ch2_img11.png" width="100%"></p>
+**Chapter I. About**, gives some background information but has no associated questions.
 
-&ensp;&ensp;&ensp; **Chapter I. About**, gives some background information but has no associated questions.
-
-&ensp;&ensp;&ensp; **Chapter II. Declare your FAIR Implementation Community (FIC)** (12)
+**Chapter II. Declare your FAIR Implementation Community (FIC)** (11)
 
 This chapter contains 4 questions:
 
-&ensp;&ensp;&ensp; 1. Identify your FIC by using the drop-down / autocomplete functions in the text box. If you do not see your community, you’ll have to first mint a nanopublication representing your community (see below).
+1. Identify your FIC by using the drop-down / autocomplete functions in the text box. If you do not see your community, you’ll have to first mint a nanopublication representing your community (see below).
 
-&ensp;&ensp;&ensp; 2. Identify the person who will be responsible for completing the FIP questionnaire (the community data steward) using ORCID.  
+2. Identify the person who will be responsible for completing the FIP questionnaire (the community data steward) using ORCID.  
 
-&ensp;&ensp;&ensp; 3. Start date of the validity of the FIP.
+3. Start date of the validity of the FIP.
 
-&ensp;&ensp;&ensp; 4. End date of the validity of the FIP. It may be the case that an explicit end date has yet to be specified by your community, in this case answer with "December 31 2050".
+4. End date of the validity of the FIP. It may be the case that an explicit end date has yet to be specified by your community, in this case answer with "December 31 2050".
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img12.png" width="100%"></p>
 
@@ -48,33 +46,33 @@ There is a common pattern for each of the questions referring to each FAIR Princ
 
 If your community uses a resource that is not FAIR, you have two options: 
 
-&ensp;&ensp;&ensp; I. In case your community is not in control of the resource, choose option **a. No Implementations choice** and add the resource as free text in the **Considerations** box (13).
+- In case your community is not in control of the resource, choose option **a. No Implementations choice** and add the resource as free text in the **Considerations** box (12).
 
-&ensp;&ensp;&ensp; II. In case your community is in control of the resource and plans to FAIRify it choose **Declaration: FAIR Enabling Resource(s)**, and define that you are going to use it in future (see below).
+- In case your community is in control of the resource and plans to FAIRify it choose **Declaration: FAIR Enabling Resource(s)**, and define that you are going to use it in future (see below).
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img13.png" width="100%"></p>
 
-If your community uses a resource that has some level of FAIRness, then click option **b.** and add (declare) the FAIR Enabling Resource (or a list of resources) by clicking the **+Add** button (14). 
+If your community uses a resource that has some level of FAIRness, then click option **b.** and add (declare) the FAIR Enabling Resource (or a list of resources) by clicking the **+Add** button (13). 
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img14.png" width="100%"></p>
 
-The questionnaire asks you to select (from the drop-down list) a FER for that particular FAIR Principle (15). 
+- The questionnaire asks you to select (from the drop-down list) a FER for that particular FAIR Principle (14). 
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img15.png" width="100%"></p>
 
-Note: those items in the list that are marked with the GFF qualification logo are quality-checked by the GO FAIR team
+    Note: those items in the list that are marked with the GFF qualification logo are quality-checked by the GO FAIR team
 
 <p align="left"><img src="./_static/img/fipwug_ch2_img13sharp.png" width="10%"></p>
 
-Others without badges have not yet been quality-checked
+    Others without badges have not yet been quality-checked
 
-Your selection has a follow-up question regarding the usage status of that FER in your community. Is the FER:
+- Your selection has a follow-up question regarding the usage status of that FER in your community. Is the FER:
 
-&ensp;&ensp;&ensp; **a. Currently in use by the community**
+    - **Currently in use by the community**
 
-&ensp;&ensp;&ensp; **b. Currently in use, but is planned to be replaced in the future**
+    - **Currently in use, but is planned to be replaced in the future**
 
-&ensp;&ensp;&ensp; **c. Is planned to be used in the future**
+    - **Is planned to be used in the future**
 
 Answering **b** will open another text box, allowing you to select the replacement FER.
 
