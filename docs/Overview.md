@@ -5,7 +5,7 @@ The FIP Wizard 3.0 is by now a stable and robust tool. However, as the FIP Wizar
 Making a FIP will typically involve three activities summarized below. The numbered chapters of this user guide will provide all the details you need to operate the FIP Wizard responsibly and with conﬁdence.
 
  
-1.	**Completing the FIP Ǫuestionnaire:** Answer the questions of the FIP Wizard questionnaire by selecting for each FAIR Principle, the FAIR Enabling Resources from the drop-down lists, setting the implementation status, and stating your considerations behind that choice. Go to [Chapters 1](https://gofair-foundation.github.io/fip/GettingStarted.html) and [2](https://gofair-foundation.github.io/fip/Completing.html)!
+1.	**Completing the FIP Ǫuestionnaire:** Answer the questions of the FIP Wizard questionnaire by selecting for each FAIR Principle, the FAIR Enabling Resources from the drop-down lists, setting the implementation status, and stating your considerations behind that choice. Go to [Chapters 1](https://gofair-foundation.github.io/fip/GettingStarted.html) and [2](https://gofair-foundation.github.io/fip/CompletingQuestionnaire.html)!
 
   
 2.	**Minting New Nanopublications:** When declaring your community as a FAIR Implementation Community (FIC) or when selecting FERs keep in mind that:
