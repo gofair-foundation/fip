@@ -40,7 +40,7 @@ Multiple nanopublications can be “contained” or bundled using a special kind
 
     For the name of the resource you are creating you should avoid ‘,’ use a pipe (|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like **Envthes | Environmental Thesaurus**
 
-6. After completing the project, go to **Documents** (16) and make a **new document**.
+6. After completing the project, go to **Documents** (15) and make a **new document**.
 
 <p align="left"><img src="./_static/img/fipwug_ch3_img16.png" width="50%"></p>
 
@@ -48,13 +48,13 @@ Multiple nanopublications can be “contained” or bundled using a special kind
 
 8. Push **Create**.
 
-    If no error appears you can submit the nanopub clicking on the three dots (17):
+    If no error appears you can submit the nanopub clicking on the three dots (16):
 
 9. Choose **Nanopub Server** (not the local one, which is only for testing) and **submit**.
 
 10. Click on **view submission**.
 
-You will see the submission as a FER nanopub (18), the persistent identiﬁer (nanopub URI) is highlighted in yellow.
+You will see the submission as a FER nanopub (17), the persistent identiﬁer (nanopub URI) is highlighted in yellow.
 
 <p align="left"><img src="./_static/img/fipwug_ch3_img17.png" width="20%"></p>
 
