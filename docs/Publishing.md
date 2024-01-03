@@ -1,12 +1,14 @@
 # Publishing your FIP
 
-Your completed FIP questionnaire will have: 
+Your completed FIP questionnaire should include: 
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; a.    Your community nanopub
+- Your community nanopub,
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; b.    The ORCID for the community data steward
+- The ORCID for the community data steward,
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; c.    All questions completed 
+- All questions completed.
+
+To publish your FIP follow these steps:
 
 1.    Click **Documents** (top menu bar).
 
@@ -22,24 +24,24 @@ Your completed FIP questionnaire will have:
 
 7.    Click on **view submission**.
 
-You will see the created FIP index nanopub (19)
+You will see the created FIP index nanopub (18)
 
 <p align="left"><img src="./_static/img/fipwug_ch4_img19.png" width="70%"></p>
 
-If you want to get a human-readable output (20) you could choose as document template:
+If you want to get a human-readable output (19) you could choose as document template:
 
 &ensp;&ensp;&ensp;&ensp; I.    **Questionnaire Report** which gives you the options to create PDFs or Word documents
 
-&ensp;&ensp;&ensp;&ensp; II.    **FIP Spreadsheet** to get CSV or Excel files (21)
+&ensp;&ensp;&ensp;&ensp; II.    **FIP Spreadsheet** to get CSV or Excel files (20)
 <p align="left"><img src="./_static/img/fipwug_ch4_img20.png.png" width="70%"></p>
 
 <p align="left"><img src="./_static/img/fipwug_ch4_img21.png" width="100%"></p>
 
-If an error appears (22), you should be aware that all questions must have explicit answers: Some questions may have **null** answers, i.e., declarations that no choice was made. 
+If an error appears (21), you should be aware that all questions must have explicit answers: Some questions may have **null** answers, i.e., declarations that no choice was made. 
 
 <p align="left"><img src="./_static/img/fipwug_ch4_img22.png" width="100%"></p>
 
-By choosing **HTML Preview** of the **Nanopublication Template** (in **Settings** - 23) you will see in **Preview mode** the question that needs revision (24).
+By choosing **HTML Preview** of the **Nanopublication Template** (in **Settings** - 22) you will see in **Preview mode** the question that needs revision (23).
 
 <p align="left"><img src="./_static/img/fipwug_ch4_img23.png" width="45%"></p>
 
