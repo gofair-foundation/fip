@@ -1,5 +1,5 @@
 # Minting nanopublications
-- What is a nanopublication?
+**What is a nanopublication?**
 
 A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see [here](https://nanopub.net/) and [here](https://peerj.com/articles/cs-387/)).
 
@@ -9,54 +9,52 @@ Nanopublications are authored using cryptographic keys that make them hard to fo
 
 Multiple nanopublications can be “contained” or bundled using a special kind of nanopublication called “index nanopublications”.
 
-- Why nanopublication?
+**Why nanopublication?**
   
-&ensp;&ensp;&ensp;-	These computational properties of nanopublications can be powerfully leveraged to make machine-readable FIPs.
+-	These computational properties of nanopublications can be powerfully leveraged to make machine-readable FIPs.
 
-&ensp;&ensp;&ensp;-	This happens in two ways:
+-	This happens in two ways:
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;i.	Individual components of the FIP (such as the FIC and FERs) are all represented as nanopublications.
+    - Individual components of the FIP (such as the FIC and FERs) are all represented as nanopublications.
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;ii.	The output of the FIP Wizard 3.0 (see *Publishing your FIP*) is an index nanopublication that provides a list of declared FERs for every FIC.
+    - The output of the FIP Wizard 3.0 (see *Publishing your FIP*) is an index nanopublication that provides a list of declared FERs for every FIC.
 
-- How to mint FER nanopublications in the FIP Wizard:
+**How to mint FER nanopublications in the FIP Wizard**
   
-&ensp;&ensp;&ensp;&ensp;&ensp;1. Go to *VII. Register a new resource as a nanopublication*
+1. Go to *VII. Register a new resource as a nanopublication*
 
-&ensp;&ensp;&ensp;&ensp;&ensp;2. Click on one of the for “template” links
+2. Click on one of the four “template” links
  
-This takes you to a new project dialog box. In this case, the new project is the nanoWizard.
+   This takes you to a new project dialog box. 
 
-&ensp;&ensp;&ensp;&ensp;&ensp;3. Select the tab: **From Template**
+3. Select the tab: **From Template**
 
-&ensp;&ensp;&ensp;&ensp;&ensp;4. Enter a name for your new nanopub.
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;There is no speciﬁc format required here for the name.
+4. Enter a name for your new nanopub. There is no speciﬁc format required here for the name.
 
-&ensp;&ensp;&ensp;&ensp;&ensp;5. Click **Save**. This will bring you to the nanoWizard questionnaire.
+5. Click **Save**. This will bring you to the questionnaire.
 
-There are only two chapters in the nanoWizard:
+   There are only two chapters:
 
-&ensp;&ensp;&ensp;&ensp;&ensp;**I. Author** - provide your ORCID.
+    - **Author** - provide your ORCID.
+    - **Deﬁnition** - various details required to build your nanopublication. For Communities you may choose a “supercommunity” to which your community belongs which will help in the analysis of the results. For FERs you have to identify the appropriate FER type. More than one FER type can apply. A FER might be available or 'to be developed'.
 
-&ensp;&ensp;&ensp;&ensp;&ensp;**II. Deﬁnition** - various details required to build your nanopublication. For Communities you may choose a “supercommunity” to which your community belongs which will help in the analysis of the results. For FERs you have to identify the appropriate FER type. More than one FER type can apply. A FER might be available or to be developed.
+    For the name of the resource you are creating you should avoid ‘,’ use a pipe (|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like **Envthes | Environmental Thesaurus**
 
-For the name of the resource you are creating you should avoid ‘,’ use a pipe (|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like **Envhes | Environmental Thesaurus**
-
-&ensp;&ensp;&ensp;&ensp;&ensp;6. After completing the nanoWizard, go to **Documents** (16) and make a **new document**.
+6. After completing the project, go to **Documents** (16) and make a **new document**.
 
 <p align="left"><img src="./_static/img/fipwug_ch3_img16.png" width="50%"></p>
 
-&ensp;&ensp;&ensp;&ensp;&ensp;7. For Template choose **Nanopublication Template** and for Format choose **RDF Trig**.
+7. For Template choose **Nanopublication Template** and for Format choose **RDF Trig**.
 
-&ensp;&ensp;&ensp;&ensp;&ensp;8. Push **Create**.
+8. Push **Create**.
 
-If no error appears you can submit the nanopub clicking on the three dots (17):
+    If no error appears you can submit the nanopub clicking on the three dots (17):
 
-&ensp;&ensp;&ensp;&ensp;&ensp;9. Choose **Nanopub Server** (not the local one, which is only for testing) and **submit**
+9. Choose **Nanopub Server** (not the local one, which is only for testing) and **submit**.
 
-&ensp;&ensp;&ensp;&ensp;&ensp;10. Click on **view submission**.
+10. Click on **view submission**.
 
-You will view the submission as a FER nanopub (18), the persistent identiﬁer (nanopub URI) is highlighted in yellow.
+You will see the submission as a FER nanopub (18), the persistent identiﬁer (nanopub URI) is highlighted in yellow.
 
 <p align="left"><img src="./_static/img/fipwug_ch3_img17.png" width="20%"></p>
 
