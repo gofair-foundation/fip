@@ -41,13 +41,13 @@ If an error appears (21), you should be aware that all questions must have expli
 
 <p align="left"><img src="./_static/img/fipwug_ch4_img22.png" width="100%"></p>
 
-By choosing **HTML Preview** of the **Nanopublication Template** (in **Settings** - 22) you will see in **Preview mode** the question that needs revision (23).
+By choosing **HTML Preview** of the **Nanopublication Template** (in **Settings** - 22) you can see in **Preview mode** the question that needs revision (23).
 
 <p align="left"><img src="./_static/img/fipwug_ch4_img23.png" width="45%"></p>
 
 <p align="left"><img src="./_static/img/fipwug_ch4_img24.png" width="50%"></p>
 
-Error messages will flag possible issues such as:
+Error messages can flag possible issues such as:
 
 - Missing FAIR Implementation Community
 
@@ -64,7 +64,7 @@ Error messages will flag possible issues such as:
 - For some question(s), the considerations field was left empty
 
 All the nanopublications representing your FIP -  i.e., the FIC, the many FERs, and the index nanopub (indeed, all the semantic triples) - will be stored in a dedicated triple store and are available via a [SPARQL endpoint](https://virtuoso.nps.petapico.org/sparql). 
-To get a matrix of all created FIPs, called FAIR Convergence Matrix (25) use the [DSW-nanopub API](https://github.com/peta-pico/dsw-nanopub-api/blob/main/tables/new_matrix.csv).
+To get a matrix of all created FIPs, called FIP Matrix (24) download the [new_matrix.csv](https://github.com/peta-pico/dsw-nanopub-api/blob/main/tables/new_matrix.csv).
 
 <p align="left"><img src="./_static/img/fipwug_ch4_img25.png" width="55%"></p>
 
