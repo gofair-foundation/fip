@@ -24,7 +24,7 @@
     - Select Create Migration, click create and resolve all. This will update your project with the newest Knowledge Model. 
     - Then click again on the three dots and select Clone (5).
 
-  <p align="left"><img src="./_static/img/5.png" width="15%"></p> 
+  <p align="left"><img src="./_static/img/5.png" width="30%"></p> 
 
      - This will bring you to the FIP questionnaire. To change the name of the FIP you need to go to Settings (6). You can now start to work with the FIP Wizard questionnaire, and modify the previous FIP declarations (see below). 
 

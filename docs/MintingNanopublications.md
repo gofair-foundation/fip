@@ -42,7 +42,7 @@ Multiple nanopublications can be “contained” or bundled using a special kind
 
 6. After completing the project, go to **Documents** (15) and make a **new document**.
 
-<p align="left"><img src="./_static/img/fipwug_ch3_img16.png" width="50%"></p>
+<p align="left"><img src="./_static/img/15.png" width="50%"></p>
 
 7. For Template choose **Nanopublication Template** and for Format choose **RDF Trig**.
 
@@ -56,7 +56,7 @@ Multiple nanopublications can be “contained” or bundled using a special kind
 
 You will see the submission as a FER nanopub (17), the persistent identiﬁer (nanopub URI) is highlighted in yellow.
 
-<p align="left"><img src="./_static/img/fipwug_ch3_img17.png" width="20%"></p>
+<p align="left"><img src="./_static/img/16.png" width="20%"></p>
 
 This FER will now appear, automatically, in the drop downs of the question where the FER type is expected (e.g. identiﬁer for F1).
 
@@ -64,4 +64,4 @@ The newly created FER will not yet have a GFF qualiﬁcation, as this review pro
 
 You can, however, already use the FER before it gets a qualiﬁcation.
 
-<p align="left"><img src="./_static/img/fipwug_ch3_img18.png" width="50%"></p>
+<p align="left"><img src="./_static/img/17.png" width="50%"></p>
