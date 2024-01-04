@@ -18,4 +18,4 @@ Hence, this user guide is designed to complement the FIP-specific features of th
 
 -   Any given FIP can be compared with FIPs from other communities giving insight on how FIPs might be optimized to ensure FAIR Convergence.  
 
-The FIP Wizard team is composed of Barbara Magagna, Marek Suchanek, Tobias Kuhn, and Erik Schultes. We wish you success in composing your FIP. If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us.
+The FIP Wizard team is composed of Barbara Magagna, Marek Suchanek, Tobias Kuhn, and Erik Schultes. We wish you success in composing your FIP. If you have any comments, questions or suggestions on how to improve the FIP Wizard experience, please contact us: fipadmin@gofair.foundation.
