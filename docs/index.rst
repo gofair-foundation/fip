@@ -37,5 +37,6 @@ Usage and Maintenance
    :maxdepth: 1
 
    License.md
+   Contributing.md
    Maintainers.md
 
