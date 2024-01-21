@@ -43,16 +43,17 @@
 
 - Select the tab: **From Project Template**
 
-- Enter a name for your FIP: We recommend [Community acronym] FIP (for better findability avoid using '_' in the name)
+- Enter a name for your FIP: We recommend *[Community acronym] FIP* (for better findability avoid using '_' in the name)
+  
+- Add a short description of the FIP
 
-- Select a template from the drop-down list
+- Select the **FIP template** from the drop-down list
 You’ll see here 4 templates
 
-- select **FAIR Implementation Profile**  
-Later, when minting nanopublications, you’ll use the other templates:
-   - A FAIR Implementation Community (FIC)
-   - A FAIR Enabling Resource from FAIRsharing
-   - A FAIR Enabling Resource (FER)
+- FAIR Implementation Profile (FIP)
+- A FAIR Implementation Community (FIC)
+- A FAIR Enabling Resource from FAIRsharing
+- A FAIR Enabling Resource (FER)
      
 - Click **Save**. This will bring you to the FIP questionnaire. You can now start to work with the FIP Wizard questionnaire, and make FIP declarations (see below).
 
