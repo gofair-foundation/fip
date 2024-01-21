@@ -1,4 +1,4 @@
-# Getting started with the FIP Wizard 3.0
+# Getting started with the FIP Wizard 4.0
 
 - Go to https://fip-wizard.ds-wizard.org: log in or sign up. 
 - Click Projects (a folder icon in the menu bar on the left) (1).
@@ -43,17 +43,16 @@
 
 - Select the tab: **From Project Template**
 
-- Enter a name for your FIP: We recommend [Community acronym]_FIP
+- Enter a name for your FIP: We recommend [Community acronym] FIP (for better findability avoid using '_' in the name)
 
 - Select a template from the drop-down list
-You’ll see here 5 templates
+You’ll see here 4 templates
 
 - select **FAIR Implementation Profile**  
 Later, when minting nanopublications, you’ll use the other templates:
    - A FAIR Implementation Community (FIC)
    - A FAIR Enabling Resource from FAIRsharing
    - A FAIR Enabling Resource (FER)
-   - A Metadata Preservation Policy (MPP)
      
 - Click **Save**. This will bring you to the FIP questionnaire. You can now start to work with the FIP Wizard questionnaire, and make FIP declarations (see below).
 
