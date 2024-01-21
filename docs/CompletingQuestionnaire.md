@@ -1,6 +1,6 @@
 # Completing the FIP questionnaire
 
-The FIP questionnaire has 26 questions (referred to in the FIP ontology as “declarations”), divided among 7 chapters.
+The FIP questionnaire has 29 questions (referred to in the FIP ontology as “declarations”), divided among 7 chapters.
 
 &ensp;&ensp;&ensp; I. About
 
@@ -28,15 +28,21 @@ In the questionnaire, questions that have been answered will be highlighted in g
 
 **Chapter II. Declare your FAIR Implementation Community (FIC)** (11)
 
-This chapter contains 4 questions:
+This chapter contains these questions:
 
 1. Identify your FIC by using the drop-down / autocomplete functions in the text box. If you do not see your community, you’ll have to first mint a nanopublication representing your community (see below).
 
-2. Identify the person who will be responsible for completing the FIP questionnaire (the community data steward) using ORCID.  
+2. Identify the person who will be responsible for completing the FIP questionnaire (the community data steward) using ORCID.
 
-3. Start date of the validity of the FIP.
+3. Optionally provide the type of digital object you are focusing on in this FIP.
+   
+4. Optionally provide an accessible identifier of one of your digital objects of the chosen type.
 
-4. End date of the validity of the FIP. It may be the case that an explicit end date has yet to be specified by your community, in this case answer with "December 31 2050".
+5. Optionally provide a link (OSF or Zenodo DOI) to a case study description you want to focus on in this FIP.
+
+6. Start date of the validity of the FIP.
+
+7. End date of the validity of the FIP. It may be the case that an explicit end date has yet to be specified by your community, in this case answer with "December 31 2050".
 
 <p align="left"><img src="./_static/img/11.png" width="100%"></p>
 
