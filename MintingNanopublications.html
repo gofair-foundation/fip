@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minting nanopublications &mdash; FIP Wiki 1.0 documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=80d5e7a1" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=19f00094" />
+
+  
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script src="_static/jquery.js?v=5d32c60e"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+        <script src="_static/documentation_options.js?v=f2a433a1"></script>
+        <script src="_static/doctools.js?v=888ff710"></script>
+        <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Publishing your FIP" href="Publishing.html" />
+    <link rel="prev" title="Completing the FIP questionnaire" href="CompletingQuestionnaire.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            FIP Wiki
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="Intro.html">FAIR Implementation Profiles</a></li>
+</ul>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="Background.html">Background</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Overview.html">Overview on how to create a FAIR Implementation Profile</a></li>
+<li class="toctree-l1"><a class="reference internal" href="GettingStarted.html">Getting started with the FIP Wizard 4.0</a></li>
+<li class="toctree-l1"><a class="reference internal" href="CompletingQuestionnaire.html">Completing the FIP questionnaire</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Minting nanopublications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Publishing.html">Publishing your FIP</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Revising.html">Revising your FIP</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Authors.html">Authors</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="License.html">Licence</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Contributing.html">Contributing to the FIP wiki</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Maintainers.html">Maintainers</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">FIP Wiki</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Minting nanopublications</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/MintingNanopublications.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="minting-nanopublications">
+<h1>Minting nanopublications<a class="headerlink" href="#minting-nanopublications" title="Link to this heading"></a></h1>
+<p><strong>What is a nanopublication?</strong></p>
+<p>A nanopublication is a unitary assertion about the world with associated metadata, rendered in machine-readable form, and all of this having a globally unique, persistent and resolvable identifier (see <a class="reference external" href="https://nanopub.net/">here</a> and <a class="reference external" href="https://peerj.com/articles/cs-387/">here</a>).</p>
+<p align="left"><img src="./_static/img/fipwug_ch3_img16flat.png" width="20%"></p>
+<p>Nanopublications are authored using cryptographic keys that make them hard to forge and corrupt. So once published, they are persistent and immutable.</p>
+<p>Multiple nanopublications can be “contained” or bundled using a special kind of nanopublication called “index nanopublications”.</p>
+<p><strong>Why nanopublication?</strong></p>
+<ul class="simple">
+<li><p>These computational properties of nanopublications can be powerfully leveraged to make machine-readable FIPs.</p></li>
+<li><p>This happens in two ways:</p>
+<ul>
+<li><p>Individual components of the FIP (such as the FIC and FERs) are all represented as nanopublications.</p></li>
+<li><p>The output of the FIP Wizard 3.0 (see <em>Publishing your FIP</em>) is an index nanopublication that provides a list of declared FERs for every FIC.</p></li>
+</ul>
+</li>
+</ul>
+<p><strong>How to mint FER nanopublications in the FIP Wizard</strong></p>
+<ol class="arabic">
+<li><p>Go to <em>VII. Register a new resource as a nanopublication</em></p></li>
+<li><p>Click on one of the four “template” links</p>
+<p>This takes you to a new project dialog box.</p>
+</li>
+<li><p>Select the tab: <strong>From Template</strong></p></li>
+<li><p>Enter a name for your new nanopub. There is no speciﬁc format required here for the name.</p></li>
+<li><p>Click <strong>Save</strong>. This will bring you to the questionnaire.</p>
+<p>There are only two chapters:</p>
+<ul class="simple">
+<li><p><strong>Author</strong> - provide your ORCID.</p></li>
+<li><p><strong>Deﬁnition</strong> - various details required to build your nanopublication. For Communities you may choose a “supercommunity” to which your community belongs which will help in the analysis of the results. For FERs you have to identify the appropriate FER type. More than one FER type can apply. A FER might be available or ‘to be developed’.</p></li>
+</ul>
+<p>For the name of the resource you are creating you should avoid ‘,’ use a pipe (|) with a space before and after that symbol (for enabling a better ﬁndability) if you want to add both an acronym and a longer name like <strong>Envthes | Environmental Thesaurus</strong></p>
+</li>
+<li><p>After completing the project, go to <strong>Documents</strong> (15) and make a <strong>new document</strong>.</p></li>
+</ol>
+<p align="left"><img src="./_static/img/15.png" width="50%"></p>
+<ol class="arabic" start="7">
+<li><p>For Template choose <strong>Nanopublication Template</strong> and for Format choose <strong>RDF Trig</strong>.</p></li>
+<li><p>Push <strong>Create</strong>.</p>
+<p>If no error appears you can submit the nanopub clicking on the three dots (16):</p>
+</li>
+<li><p>Choose <strong>Nanopub Server</strong> (not the local one, which is only for testing) and <strong>submit</strong>.</p></li>
+<li><p>Click on <strong>view submission</strong>.</p></li>
+</ol>
+<p>You will see the submission as a FER nanopub (17), the persistent identiﬁer (nanopub URI) is highlighted in yellow.</p>
+<p align="left"><img src="./_static/img/16.png" width="20%"></p>
+<p>This FER will now appear, automatically, in the drop downs of the question where the FER type is expected (e.g. identiﬁer for F1).</p>
+<p>The newly created FER will not yet have a GFF qualiﬁcation, as this review process will take a few days. If it is not accepted you will get a notiﬁcation about the reason.</p>
+<p>You can, however, already use the FER before it gets a qualiﬁcation.</p>
+<p align="left"><img src="./_static/img/17.png" width="50%"></p>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="CompletingQuestionnaire.html" class="btn btn-neutral float-left" title="Completing the FIP questionnaire" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="Publishing.html" class="btn btn-neutral float-right" title="Publishing your FIP" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2023, GO FAIR Foundation.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
