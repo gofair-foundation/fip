@@ -9,7 +9,7 @@ Introduction
    
    Intro.md 
    
-FIP Wizard 3.0 User Guide
+FIP Wizard 4.0 User Guide
 ==========================
 
 .. toctree::
